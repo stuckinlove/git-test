@@ -3,3 +3,4 @@ gettest
 
 add sourceTree
 
+add test
