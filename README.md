@@ -3,4 +3,4 @@ gettest
 
 
 
-]version 222
+version 222
